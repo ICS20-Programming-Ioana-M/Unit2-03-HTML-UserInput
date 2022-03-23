@@ -1,1 +1,1 @@
-# Unit2-03-HTML-UserInput
+[![GitHub's SuperLinter](https://github.com/ICS20-Programming-Ioana-M/Unit2-03-HTML-UserInput/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-Ioana-M/Unit2-03-HTML-UserInput/actions)
