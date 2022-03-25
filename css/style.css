@@ -1,0 +1,59 @@
+/* 
+Created by: Ioana
+Created on: Mar 23 2022
+This CSS file defines the style for index.html
+Unit2-03-HTML-UserInput 
+*/
+
+body {
+  background-color: OldLace;
+  font-size: 10pt;
+  color: black;
+  line-height: 14pt;
+  padding-left: 5pt;
+  padding-right: 5pt;
+  padding-top: 5pt;
+}
+
+h1 {
+  font-weight: bold;
+  line-height: 20pt;
+  color: rgb(0, 109, 119);
+}
+
+h2 {
+  font-weight: bold;
+  line-height: 18pt;
+  color: rgb(239, 149, 157);
+}
+
+h3 {
+  font-weight: bold;
+  line-height: 16pt;
+  color: rgb(0, 109, 119);
+}
+
+p.subheader {
+  font-weight: bold;
+  color: rgb(106, 141, 146);
+}
+
+div {
+  font-weight: bold;
+  color: #ef959d;
+  margin: 5px;
+}
+
+img {
+  padding: 3pt;
+  float: right;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #69585f;
+}
